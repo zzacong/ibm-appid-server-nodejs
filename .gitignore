@@ -1,0 +1,13 @@
+.DS_Store
+node_modules/
+
+.env
+.env.local
+
+.firebase/
+.netlify/
+
+build/
+dist/
+
+vcap-local.json
